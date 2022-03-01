@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Infoware-Reactjs/static/css/main.1d8a7f2d.css",
+    "main.js": "/Infoware-Reactjs/static/js/main.bc819026.js",
+    "static/js/787.fb24eb85.chunk.js": "/Infoware-Reactjs/static/js/787.fb24eb85.chunk.js",
+    "index.html": "/Infoware-Reactjs/index.html",
+    "main.1d8a7f2d.css.map": "/Infoware-Reactjs/static/css/main.1d8a7f2d.css.map",
+    "main.bc819026.js.map": "/Infoware-Reactjs/static/js/main.bc819026.js.map",
+    "787.fb24eb85.chunk.js.map": "/Infoware-Reactjs/static/js/787.fb24eb85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8a7f2d.css",
+    "static/js/main.bc819026.js"
+  ]
+}
