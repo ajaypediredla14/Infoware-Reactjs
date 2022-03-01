@@ -1,0 +1,22 @@
+span
+{
+    color:red;
+    text-align: left;
+    font-weight: 900;
+    padding-right: 10px;
+}
+
+.header
+{
+    font-size: 20px;
+    background-color: black;
+    color: white !important;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+p{
+    text-align: left ;
+    padding: 7px;
+    font-weight: 500;
+}
