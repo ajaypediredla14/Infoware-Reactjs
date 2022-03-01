@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 Using ReactJS- Redux to create responsive demos of 
-1. consuming weather api from popular source  of Delhi, Mumbai, London, New York and display frontend 
-2. creating a pizza shopping cart with pizza size, toppings and price
+1. consuming weather api from popular source  of Delhi, Mumbai, London, New York and display frontend .
+2. creating a pizza shopping cart with pizza size, toppings and price.
 
 ## Demo Run
-[Live Run](https://jay-498.github.io/Infoware-Reactjs/)
+[Live Demo](https://jay-498.github.io/Infoware-Reactjs/)
 
 ## Available Scripts
 
