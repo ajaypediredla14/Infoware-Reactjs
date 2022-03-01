@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Infoware-Reactjs/static/css/main.1d8a7f2d.css",
-    "main.js": "/Infoware-Reactjs/static/js/main.bc819026.js",
-    "static/js/787.fb24eb85.chunk.js": "/Infoware-Reactjs/static/js/787.fb24eb85.chunk.js",
-    "index.html": "/Infoware-Reactjs/index.html",
-    "main.1d8a7f2d.css.map": "/Infoware-Reactjs/static/css/main.1d8a7f2d.css.map",
-    "main.bc819026.js.map": "/Infoware-Reactjs/static/js/main.bc819026.js.map",
-    "787.fb24eb85.chunk.js.map": "/Infoware-Reactjs/static/js/787.fb24eb85.chunk.js.map"
+    "main.css": "/static/css/main.1d8a7f2d.css",
+    "main.js": "/static/js/main.5b196094.js",
+    "static/js/787.fb24eb85.chunk.js": "/static/js/787.fb24eb85.chunk.js",
+    "index.html": "/index.html",
+    "main.1d8a7f2d.css.map": "/static/css/main.1d8a7f2d.css.map",
+    "main.5b196094.js.map": "/static/js/main.5b196094.js.map",
+    "787.fb24eb85.chunk.js.map": "/static/js/787.fb24eb85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d8a7f2d.css",
-    "static/js/main.bc819026.js"
+    "static/js/main.5b196094.js"
   ]
 }
